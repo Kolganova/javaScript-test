@@ -1,0 +1,16 @@
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/bin/Debug/net7.0/js-test
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/bin/Debug/net7.0/js-test.deps.json
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/bin/Debug/net7.0/js-test.runtimeconfig.json
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/bin/Debug/net7.0/js-test.dll
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/bin/Debug/net7.0/js-test.pdb
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.csproj.AssemblyReference.cache
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.AssemblyInfoInputs.cache
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.AssemblyInfo.cs
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.csproj.CoreCompileInputs.cache
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.dll
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/refint/js-test.dll
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.pdb
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/js-test.genruntimeconfig.cache
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/obj/Debug/net7.0/ref/js-test.dll
+/Users/kiskadi/VisualStudioProjects/js-test/js-test/bin/Debug/net7.0/js/javaScriptTestFile.js
